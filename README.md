@@ -1,3 +1,22 @@
+              1) Excel Data Analyzing Step's :-
+go to the Excel and Importing Data file's
+Using Power-pivot and Also using Power Query Editor
+Calculating some important Factor like a AVG(),  Sum(),etc.
+Filtering Data's
+Creating Good Kpi's and Dashboard.
+
+               2)POWER-BI DATA Analysis STEP's
+Importing Data file's in Power-BI Desktop 
+Transforming Data Removing Un-neccesary Data , Fitering good data , and Load it.
+Managing Relationship into these Data files in power-bi.
+Then Analysis Your Data Graphically Way and FindinG Insight's and Focusing Hidden Pattern to the data.
+
+               3)Tableau Data Analysis Step's 
+Importing or Loading Data In Tableau and Exploring the data
+Creating Union and Built The Relationship into the Data files
+Analyzing Data such Good Way and Also Provide Intractive Dashboard...
+
+               4)  MYSQL WORKBENCH STEP's
 this SQL fileProvide to the Analysis some Important Study in Employees Retention Data.
 First Step in MYQSL is Importing or Loading Csv file's Succesefully 
 first file Load :- load data infile "HR_1.csv" into table hr1 
