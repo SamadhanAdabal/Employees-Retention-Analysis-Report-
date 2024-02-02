@@ -30,6 +30,8 @@ this KPI is showing how Job role Effect Work Life Balance.
 6) Atrrition Rate Vs Monthly Income
    in this  Querie Use Avg.,Sum, CASE , Join then Arranging Group by
    this KPI Showing or Explaining About Atrrition Rate Opposite Monthly Income.
+
+   
    
    
    
