@@ -1,4 +1,4 @@
-this SQL file Provide to the Analysis some Important Study in Employees Retention Data.
+this SQL fileProvide to the Analysis some Important Study in Employees Retention Data.
 First Step in MYQSL is Importing or Loading Csv file's Succesefully 
 first file Load :- load data infile "HR_1.csv" into table hr1 
 fields terminated by ','
